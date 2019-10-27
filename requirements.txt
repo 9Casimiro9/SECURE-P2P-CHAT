@@ -1,0 +1,6 @@
+python-socketio
+pynput
+pyfiglet
+pycryptodome
+pyfiglet
+colorama
