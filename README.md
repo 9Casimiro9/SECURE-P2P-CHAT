@@ -14,7 +14,7 @@
 - [Onion network](https://en.wikipedia.org/wiki/Onion_routing)
 
 ## How does it work?
-![Graph 1](https://github.coventry.ac.uk/ribeiro7/GROUP1-ONION-NETWORK-P2P-CHAT/blob/master/img/how-does-it-works.jpg?raw=true)
+![Graph 1](https://github.com/9Casimiro9/SECURE-P2P-CHAT/blob/master/img/how-does-it-works.jpg)
 
 1. The data is sent via p2p network application architecture
 
